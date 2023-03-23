@@ -1,6 +1,6 @@
 # 基本介绍
 
-hyperf-iot基于Hyperf v2.1、VUE+Prime Pro开发的前后分离管理后台，内容管理系统
+hyperf-iot基于Hyperf v2.1、VUE+Prime Pro开发的靓号系统,号卡分销系统,靓号销售系统,号卡管理系统，前后分离管理后台
 
 ## 主要特性
 
@@ -18,6 +18,17 @@ hyperf-iot基于Hyperf v2.1、VUE+Prime Pro开发的前后分离管理后台，�
 * 无缝整合第三方云存储(七牛云、阿里云OSS)功能，支持云储存分片上传
 * 第三方登录(QQ、微信)整合
 * 第三方支付(微信、支付宝)无缝整合，微信支持PC端扫码支付
+
+##### 基于[HotGo2.0](https://github.com/bufanyun/hotgo)开发的 号卡分销系统 商业版已发布，欢迎体验
+
+* 演示后台：http://demo.haoka.facms.cn/admin
+> 主账号：admin 密码：123456
+
+> 下级代理商账号：test 密码：test
+
+* 演示前台：http://demo.haoka.facms.cn/i/888
+
+> 演示站数据禁止修改，前台禁止下单，所有数据均为模拟！
 
 
 ## 部分页面展示
