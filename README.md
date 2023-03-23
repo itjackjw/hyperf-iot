@@ -19,7 +19,7 @@ hyperf-iot基于Hyperf v2.1、VUE+Prime Pro开发的靓号系统,号卡分销系
 * 第三方登录(QQ、微信)整合
 * 第三方支付(微信、支付宝)无缝整合，微信支持PC端扫码支付
 
-##### 基于[HotGo2.0](https://github.com/bufanyun/hotgo)开发的 号卡分销系统 商业版已发布，欢迎体验
+### 基于[HotGo2.0](https://github.com/bufanyun/hotgo)开发的 号卡分销系统 商业版已发布，欢迎体验
 
 * 演示后台：http://demo.haoka.facms.cn/admin
 > 主账号：admin 密码：123456
